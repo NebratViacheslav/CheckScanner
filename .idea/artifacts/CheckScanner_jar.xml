@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CheckScanner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CheckScanner_jar</output-path>
+    <root id="archive" name="CheckScanner.jar">
+      <element id="module-output" name="CheckScanner" />
+    </root>
+  </artifact>
+</component>
