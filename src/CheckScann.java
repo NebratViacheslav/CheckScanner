@@ -5,8 +5,7 @@ public class CheckScann {
         if (!"".equals(users1Name) ) {
             System.out.println("Hello user " + users1Name + "!!!");
         }else{
-        New num = new New();
-        num.Hello();
+        New.Hello();
         }
     }
 }
